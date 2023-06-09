@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about machine learning
 - 📫 How to reach me: via email: victorkingoshimua@gmail.com
 - 😄 Pronouns: (HE,HIM)
-- ⚡ Fun fact: i am a very curios person
+- ⚡ Fun fact: i am a very curios person 
 
