@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a career in machine learning
 - 🌱 I’m currently learning how to make machines solve real-world problems 
