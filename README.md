@@ -9,5 +9,5 @@
 - 💬 Ask me about machine learning
 - 📫 How to reach me: via email: victorkingoshimua@gmail.com
 - 😄 Pronouns: (HE, HIM)
-- ⚡ Fun fact: I am a very curious person 
+- ⚡ Fun fact: I am a very curious person  
   
