@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oshimua victor</h1>
 <h3 align="center">A passionate and inquisitive machine learning engineer from nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-boy-fixing-robot_1308-77790.jpg?w=740&t=st=1695897486~exp=1695898086~hmac=d537ae180f10549c6a16b4deb8a4a53229cb8d8799e20457875cd974d97b3374”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-boy-fixing-robot_1308-77790.jpg?w=740&t=st=1695897486~exp=1695898086~hmac=d537ae180f10549c6a16b4deb8a4a53229cb8d8799e20457875cd974d97b3374">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberholics&label=Profile%20views&color=0e75b6&style=flat" alt="cyberholics" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberholics" alt="cyberholics" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@cyber_holics" target="blank"><img src="https://img.shields.io/twitter/follow/@cyber_holics?logo=twitter&style=for-the-badge" alt="@cyber_holics" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cyber_holics" target="blank"><img src="https://img.shields.io/twitter/follow/@cyber_holics?logo=twitter&style=for-the-badge" alt="@cyber_holics" /></a> </p>
 
 - 🌱 I’m currently learning **How to apply machine learning/deep learning techniques to solve cyber security problems**
 
