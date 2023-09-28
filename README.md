@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source machine learning projects projects**
 
-- 👨‍💻 All of my projects are available at [bjbjb](bjbjb)
+- 👨‍💻 All of my projects are available at [portfolio]()
 
 - 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cyber_holics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyber_holics" height="30" width="40" /></a>
-<a href="https://twitter.com/@cyber_holics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cyber_holics" height="30" width="40" /></a>
+<a href="https://twitter.com/@cyber_holics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyber_holics" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor (king) oshimua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor (king) oshimua" height="30" width="40" /></a>
 <a href="https://kaggle.com/victor king oshimua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victor king oshimua" height="30" width="40" /></a>
 </p>
