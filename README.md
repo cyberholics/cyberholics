@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Open source machine learning projects projects**
 
-- 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics
+- 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
-- 👨‍💻 All of my projects are available at my [github repository]()
+- 👨‍💻 All of my projects are available at my [github repository](https://github.com/cyberholics?tab=repositories)
 
 - 💬 Ask me about **Machine learning,Deep learning, Natural language processing,Pytorch,MLOPS,Malware detection with machine learning**
 
