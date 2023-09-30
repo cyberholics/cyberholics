@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/cyber_holics" target="blank"><img src="https://img.shields.io/twitter/follow/cyber_holics?logo=twitter&style=for-the-badge" alt="cyber_holics" /></a> </p>
 
-- 🌱 I’m currently learning **How to apply machine learning/deep learning techniques to solve cyber security problems**
+- 🌱 I’m currently learning **How to apply machine learning/deep learning techniques to solve problems in the cybersecurity domain**
 
-- 👯 I’m looking to collaborate on **Open source machine learning projects projects**
+- 👯 I’m looking to collaborate on **Open source machine learning projects**
 
 - 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
