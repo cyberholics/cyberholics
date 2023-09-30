@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Open source machine learning projects projects**
 
-- 👨‍💻 All of my projects are available at [portfo](portfo)
-
 - 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
 - 💬 Ask me about **Machine learning,Deep learning, Natural language processing,Pytorch,MLOPS,Malware detection with machine learning**
