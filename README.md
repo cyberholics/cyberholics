@@ -19,6 +19,8 @@
 
 - 🏋🏿‍♂️ Explore my data science journey on Kaggle! 🚀 Dive into my machine learning projects, notebooks, and competitions. [Kaggle](https://www.kaggle.com/victorkingoshimua)
 
+- 🥇 Just like my Kaggle profile, I do similar things on [Zindi](https://zindi.africa/users/Cyberholics)
+
 - 💬 Ask me about **Machine learning,Deep learning, Natural language processing,Pytorch,MLOPS,Malware detection with machine learning**
 
 - 📫 How to reach me **victorkingoshimua@gmail.com**
