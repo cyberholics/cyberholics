@@ -28,7 +28,7 @@
 - ⚡ Fun fact **I believe I have a great sense of humor and an insatiable curiosity**
 
 ### [Some of my Technical articles](https://github.com/cyberholics/Blog-posts)
-### [Explore my personal projects]()
+### [Explore my personal projects](https://github.com/cyberholics/Collection-of-my-personal-projects)
 
 
 
