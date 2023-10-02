@@ -17,22 +17,22 @@
 
 - 👨‍💻 All of my projects are available at my [github repository](https://github.com/cyberholics?tab=repositories)
 
+- 🏋🏿‍♂️ Explore my data science journey on Kaggle! 🚀 Dive into my machine learning projects, notebooks, and competitions. [Kaggle](https://www.kaggle.com/victorkingoshimua)
+
 - 💬 Ask me about **Machine learning,Deep learning, Natural language processing,Pytorch,MLOPS,Malware detection with machine learning**
 
 - 📫 How to reach me **victorkingoshimua@gmail.com**
 
 - ⚡ Fun fact **I believe I have a great sense of humor and an insatiable curiosity**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### [Some of my Technical articles]()
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cyber_holics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyber_holics" height="30" width="40" /></a>
 <a href="https://twitter.com/cyber_holics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyber_holics" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor (king) oshimua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor (king) oshimua" height="30" width="40" /></a>
-<a href="https://kaggle.com/victor king oshimua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victor king oshimua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
