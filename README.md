@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oshimua victor</h1>
-<h3 align="center">A passionate and inquisitive machine learning engineer </h3>
+<h1 align="center">Hi 👋, Hello, I'm Oshimua Victor, a passionate and inquisitive machine learning engineer! 🚀</h1>
+<h3 align="center"> Welcome to my coding universe, where curiosity meets data.🌟 Here, you'll find a collection of my coding adventures, open-source projects, and more. Feel free to explore my repositories and contributions.  </h3>
 
 <img align="center" alt="Coding" width="500" src="https://img.freepik.com/free-vector/young-boy-fixing-robot_1308-77790.jpg?w=740&t=st=1695897486~exp=1695898086~hmac=d537ae180f10549c6a16b4deb8a4a53229cb8d8799e20457875cd974d97b3374">
 
