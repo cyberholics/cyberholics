@@ -1,5 +1,17 @@
 <h1 align="center">Welcome to my coding universe, where curiosity meets data.🌟 Here, you'll find a collection of my coding adventures, open-source projects, and more. Feel free to explore my repositories and contributions.</h1>
-<h4 align="center"> Hi 👋, I'm Oshimua Victor Isaac, a passionate and inquisitive machine learning engineer! I'm deeply curious and enthusiastic about the intersection of artificial intelligence and cybersecurity. 🤖🔒 I don't only develop machine learning models; I bring them to life by deploying them into real-world applications. I am interested in unravelling the mysteries of machine learning algorithms and their applications in bolstering digital defences.  </h4>
+<h4 align="center"> Hi 👋, I'm Oshimua Victor Isaac, a passionate and inquisitive machine learning engineer! I also love content creation and have written various technical articles.  I'm deeply curious and enthusiastic about the intersection of artificial intelligence and cybersecurity. 🤖🔒 I don't only develop machine learning models; I bring them to life by deploying them into real-world applications. I am interested in unravelling the mysteries of machine learning algorithms and their applications in bolstering digital defences.  </h4>
+
+<div align="center">
+
+**I have a passion for building innovative projects. Feel free to explore my creations and see what I've been working on! [Here](#)**  
+
+**If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](#)**
+
+</div>
+
+
+
+
 
 <img align="center" alt="Coding" width="500" src="https://img.freepik.com/free-vector/young-boy-fixing-robot_1308-77790.jpg?w=740&t=st=1695897486~exp=1695898086~hmac=d537ae180f10549c6a16b4deb8a4a53229cb8d8799e20457875cd974d97b3374">
 
