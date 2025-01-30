@@ -1,6 +1,6 @@
-## Hi 👋, I'm Victor, a Machine Learning Engineer and technical writer. 
+## Hi 👋, I'm Victor—a Machine Learning Engineer and Technical Writer.
 
-**I have a passion for building innovative projects. Feel free to explore my creations and see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects)**  
+**I have a passion for building innovative projects. Feel free to see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects)**  
 
 **If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio)**
 
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
-- 💬 Ask me about ** AI/ML and technical content creation**
+- 💬 Ask me about **AI/ML and technical content creation**
 
 - 📫 How to reach me **victorkingoshimua@gmail.com**
 
