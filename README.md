@@ -1,8 +1,4 @@
-## Hi 👋, I'm Victor—a Machine Learning Engineer and Technical Writer.
-
-**I have a passion for building innovative projects. Feel free to see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects)**  
-
-**If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio)**
+### Hi 👋, I'm Victor—a Machine Learning Engineer and Technical Writer. I have a passion for building innovative projects. Feel free to see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects). If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio)**
 
 - 🌱 I’m currently learning **How to bring AI/ML solutions to end users**
 
@@ -15,10 +11,6 @@
 - 📫 How to reach me **victorkingoshimua@gmail.com**
 
 - ⚡ Fun fact **I believe I have a great sense of humour and an insatiable curiosity**
-
-### [Some of my Technical articles](https://github.com/cyberholics/Blog-posts)
-### [Explore my personal projects](https://github.com/cyberholics/Collection-of-my-personal-projects)
-
 
 
 <h3 align="left">Connect with me:</h3>
