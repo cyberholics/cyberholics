@@ -4,33 +4,13 @@
 
 **If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio)**
 
-</div>
-
-
-
-
-
-<img align="center" alt="Coding" width="500" src="https://img.freepik.com/free-vector/young-boy-fixing-robot_1308-77790.jpg?w=740&t=st=1695897486~exp=1695898086~hmac=d537ae180f10549c6a16b4deb8a4a53229cb8d8799e20457875cd974d97b3374">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberholics&label=Profile%20views&color=0e75b6&style=flat" alt="cyberholics" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberholics" alt="cyberholics" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cyber_holics" target="blank"><img src="https://img.shields.io/twitter/follow/cyber_holics?logo=twitter&style=for-the-badge" alt="cyber_holics" /></a> </p>
-
-- 🌱 I’m currently learning **How to apply machine learning/deep learning techniques to solve problems in the cybersecurity domain**
+- 🌱 I’m currently learning **How to bring AI/ML solutions to end users**
 
 - 👯 I’m looking to collaborate on **Open source machine learning projects**
 
 - 📝 I regularly write articles on [https://dev.to/cyber_holics](https://dev.to/cyber_holics)
 
-- 👨‍💻 All of my projects are available at my [github repository](https://github.com/cyberholics?tab=repositories)
-
-- 🏋🏿‍♂️ Explore my data science journey on Kaggle! 🚀 Dive into my machine learning projects, notebooks, and competitions. [Kaggle](https://www.kaggle.com/victorkingoshimua)
-
-- 🥇 Just like my Kaggle profile, I do similar things on [Zindi](https://zindi.africa/users/Cyberholics)
-
-- 💬 Ask me about **Machine learning,Deep learning, Natural language processing,Pytorch,MLOPS,Malware detection with machine learning**
+- 💬 Ask me about ** AI/ML and technical content creation**
 
 - 📫 How to reach me **victorkingoshimua@gmail.com**
 
