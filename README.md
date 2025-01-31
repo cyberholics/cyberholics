@@ -13,7 +13,7 @@ I have a passion for building innovative AI/ML projects. Feel free to see what I
 
 - 📫 How to reach me **victorkingoshimua@gmail.com**
 
-- ⚡ Fun fact **I believe I have a great sense of humour and an insatiable curiosity**
+- ⚡ Fun fact **I have a great sense of humour and an insatiable curiosity**
 
 
 <h3 align="left">Connect with me:</h3>
