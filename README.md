@@ -1,4 +1,7 @@
-### Hi 👋, I'm Victor—a Machine Learning Engineer and Technical Writer. I have a passion for building innovative projects. Feel free to see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects). If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work. [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio)**
+### Hi 👋, I'm Victor—a Machine Learning Engineer and Technical Writer. 
+
+I have a passion for building innovative AI/ML projects. Feel free to see what I've been working on! [Here](https://github.com/cyberholics/Collection-of-my-personal-projects). If you enjoy reading, check out my blog where I share insights, tutorials, and experiences related to my work: [My Blogs](https://github.com/cyberholics/My-technical-writing-portfolio).
+
 
 - 🌱 I’m currently learning **How to bring AI/ML solutions to end users**
 
